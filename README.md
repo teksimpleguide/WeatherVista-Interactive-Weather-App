@@ -14,7 +14,7 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 
 ## Experience WeatherVista
 
-🌦️ **Explore the WeatherVista Demo: [Click Here](https://wasimtikki120.github.io/WeatherVista-Interactive-Weather-App/)** 🌈
+🌦️ **Explore the WeatherVista Demo: [Click Here](https://teksimpleguide.github.io/WeatherVista-Interactive-Weather-App/)** 🌈
 
 ## Screenshots
 
@@ -24,7 +24,7 @@ Welcome to WeatherVista, a cutting-edge and user-friendly weather prediction app
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/wasimtikki120/WeatherVista-Interactive-Weather-App.git`
+1. Clone the repository: `git clone https://github.com/teksimpleguide/WeatherVista-Interactive-Weather-App.git`
 2. Open `index.html` in your preferred browser to launch the app.
 
 ## Usage
@@ -42,7 +42,7 @@ Feel free to customize and use it in your projects.
 
 ## Author
 
-[Mohammad Wasim Tikki](https://github.com/wasimtikki120)
+[Tek](https://github.com/teksimpleguide)
 
 ## Contribution
 
@@ -50,7 +50,7 @@ Contributions are welcome! Please check our [Contribution Guidelines](CONTRIBUTI
 
 ## Support
 
-If you encounter any issues or have suggestions, [open an issue](https://github.com/wasimtikki120/WeatherVista-Interactive-Weather-App/issues).
+If you encounter any issues or have suggestions, [open an issue](https://github.com/teksimpleguide/WeatherVista-Interactive-Weather-App/issues).
 
 ## About
 
